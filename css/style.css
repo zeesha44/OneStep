@@ -1,0 +1,52 @@
+
+.header {
+  background-color:white;
+  padding: 2px;
+  text-align: left;
+  color: grey;
+}
+
+.margin{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+/* Style the footer */
+  .footer {
+  background-color:#cc5200;
+  padding: 50px;
+  text-align: left;
+  color:#cce6ff;
+}
+.right{
+  float: right;
+  margin-right: 5px;
+}
+.left{
+  float: left;
+  margin-right: 5px;
+}
+.footer2 {
+  background-color:white;
+  padding: 10px;
+  text-align: center;
+  color: lightblue;
+}
+.color{
+  color: #cce6ff;
+}
+.whole{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ /* background-color:  #ff944d*/
+   color: #cce6ff;
+   background-image: url(../images/obg.jpg);
+}
+/*#cce6ff*/
+ 
+ .ban {
+  padding: 20px;
+  text-align: left;
+  color:#cce6ff;
+}
